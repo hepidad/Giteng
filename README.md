@@ -29,6 +29,6 @@ Describe and show how to run the tests with code examples.
 
 Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
 
-## License
-
+## Lis-sensi.
+Ya, membuat program membuat orang terkadang menjadi sensitip. Di copy kode nya jadi marah. Seperti Lilis teman kos saya, yang sensi ketika saya ambil kopinya. Ok. lisensi dari ajakan ini saya namakan LISKU (Lisensi Ini Sak Karepe Udelmu). Silahkan bagikan dengan teman sepermainan rekan semua. 
 A short snippet describing the license (MIT, Apache, etc.)
